@@ -1,0 +1,8 @@
+{
+  "/api/user/route": "app/api/user/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/(routes)/profile/page": "app/(routes)/profile/page.js",
+  "/(routes)/dashboard/page": "app/(routes)/dashboard/page.js",
+  "/(routes)/billing/page": "app/(routes)/billing/page.js"
+}
